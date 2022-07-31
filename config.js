@@ -14,7 +14,7 @@ global.gopay = '-'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'KoKo•ReyGanz'
-global.gc = 'https://chat.whatsapp.com/BeLoMbUaT
+global.gc = 'https://chat.whatsapp.com/KPv8Og9URdiDB58oJzl4T6
 global.web = 'https://www.instagram.com/callme_rey1921' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
